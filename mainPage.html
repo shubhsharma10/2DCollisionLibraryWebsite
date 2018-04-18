@@ -41,6 +41,14 @@
       <li> Press d to display Quad Trees</li>
       <li> Press r to reset. Reset will clear circles or polygons from the screen</li>
     </ul>
+    <h2> Algorithms used in development </h2>
+    <ul>
+      <li> Regional Quad Tree for spatial parition of screen</li>
+      <li> Find nearest objects using Quad Tree to collision detection for any shape(circle/polygon) </li>
+      <li> Polygon-polygon collision detection using Welzl's algorithm and Seperation Axis Theorem(SAT)</li> 
+      <li> Create minimum bounding circle for polygon, check for collision between minimum bounding circles of polygons first</li>
+      <li> If Minimum bounding circles collide then check for collision using SAT</li>
+    </ul>
     <h2> Postmortem </h2>
     <p> 
       Postmortem for this assignment is present in Readme file
