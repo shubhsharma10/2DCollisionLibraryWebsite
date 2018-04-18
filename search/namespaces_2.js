@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['quadtree',['QuadTree',['../namespace_quad_tree.html',1,'']]]
+  ['demo',['Demo',['../namespace_demo.html',1,'']]]
 ];

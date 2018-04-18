@@ -1,4 +1,8 @@
 var searchData=
 [
+  ['canfitinrect',['canFitInRect',['../class_game_object_1_1_game_object.html#ac5f88ee2cf374b3d24a2fac4adaf6973',1,'GameObject.GameObject.canFitInRect()'],['../class_game_object_1_1_polygon.html#aa6eb15aec5f8457a8be06971292e53e1',1,'GameObject.Polygon.canFitInRect()'],['../class_game_object_1_1_circle.html#a8654cb72c27b792effa4d3015935ab44',1,'GameObject.Circle.canFitInRect()']]],
+  ['checkforhorizontalwallcollision',['checkForHorizontalWallCollision',['../class_game_object_1_1_game_object.html#a91ed394ef89ddcc96e11e2b9d838ecac',1,'GameObject.GameObject.checkForHorizontalWallCollision()'],['../class_game_object_1_1_polygon.html#a64b43b9c3dcce39c4f62d6a81ddfc817',1,'GameObject.Polygon.checkForHorizontalWallCollision()'],['../class_game_object_1_1_circle.html#a41ff4aa595a7d831902f02563a100820',1,'GameObject.Circle.checkForHorizontalWallCollision()']]],
+  ['checkforverticalwallcollision',['checkForVerticalWallCollision',['../class_game_object_1_1_game_object.html#ad524f36857509170b8e8bc86aa04b8e8',1,'GameObject.GameObject.checkForVerticalWallCollision()'],['../class_game_object_1_1_polygon.html#a98514d4690e52a96a948301749106bcd',1,'GameObject.Polygon.checkForVerticalWallCollision()'],['../class_game_object_1_1_circle.html#acbd763e4414e718502c238d4206acb28',1,'GameObject.Circle.checkForVerticalWallCollision()']]],
+  ['circle',['Circle',['../class_game_object_1_1_circle.html',1,'GameObject.Circle'],['../namespace_circle.html',1,'Circle']]],
   ['clear',['clear',['../classquad_tree_1_1_quad_tree.html#acdd56bf1d8bf465af329f230a74473ec',1,'quadTree::QuadTree']]]
 ];

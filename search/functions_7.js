@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['splitnode',['splitNode',['../classquad_tree_1_1_quad_tree.html#afe7de2945c3f8e8d0837494041580e19',1,'quadTree::QuadTree']]]
+  ['offset',['offset',['../class_game_object_1_1_game_object.html#af0c689a924347743c7bbb54830a5badd',1,'GameObject.GameObject.offset()'],['../class_game_object_1_1_polygon.html#aa8a095a2b314cd8fe53fddb27be81b0f',1,'GameObject.Polygon.offset()']]]
 ];
